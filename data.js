@@ -47,7 +47,7 @@ export const techStack = [
     },
     {
         id: 3,
-        icon: "javaScript.svg",
+        icon: "javascript.svg",
         title: "JavaScript"
     },
     {

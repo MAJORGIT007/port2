@@ -26,7 +26,7 @@ function Navbar() {
         </li> */}
           <li>
             <a
-              href="#"
+              href="leejunkuan_resume.pdf"
               className="inline-block rounded-md border-[1px] border-sky-400/30 px-5 py-1 text-sky-400 transition duration-300 ease-in-out hover:bg-sky-400 hover:text-zinc-900 hover:shadow-[rgba(13,_38,_76,_0.19)_0px_9px_20px] hover:shadow-sky-400/20 focus:bg-sky-400 focus:text-zinc-900"
             >
               Resume
