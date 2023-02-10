@@ -26,8 +26,8 @@ export const data = [
         title: "My Portfolio Website",
         description: "Redesigned with Next.js and Tailwindcss to practice my skills and to showcase my projects and links.",
         image: "portfolioHero.png",
-        link: "",
-        github: "",
+        link: "https://port2-drab.vercel.app/",
+        github: "https://github.com/MAJORGIT007/port2",
         tech: [
             "Next.js", "TailwindCSS"
         ]

@@ -10,13 +10,13 @@ function Card(props) {
           alt={title}
           className="w-full border-[1px] border-sky-400/30"
         />
-        {/* <a
+        <a
           href={link}
           target="_blank"
-          className="absolute bottom-3 left-3 border-[1px] border-zinc-900/80 bg-white px-4 py-2 text-zinc-900 hover:bg-sky-100"
+          className="absolute bottom-3 left-3 border-[1px] border-zinc-900/80 bg-white px-4 py-2 text-zinc-900 hover:bg-zinc-200"
         >
           <i class="fa-solid fa-up-right-from-square"></i> Click for Demo
-        </a> */}
+        </a>
       </div>
       <div className="flex h-full flex-col text-sm sm:text-base md:text-lg">
         <h2 className="my-3 text-base font-bold leading-[1.5em]  sm:text-lg md:text-2xl">
